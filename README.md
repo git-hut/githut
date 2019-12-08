@@ -1,2 +1,3 @@
-# jumanji
+# Jumanji
+
 Creative software education.
