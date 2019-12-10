@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Home</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles/home.css') }}">
+  </head>
+  <body>
+    {% extends "templates/theme.html" %}
+    {% block content %}
+
+      <h1>Home</h1>
+
+      <script src="{{ url_for('static', filename='scripts/home.js') }}"></script>
+
+    {% endblock %}
+  </body>
+</html>
