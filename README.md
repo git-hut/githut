@@ -1,3 +1,3 @@
-# Jumanji
+# GitHut
 
 Creative software education.

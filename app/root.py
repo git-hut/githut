@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-app = Flask("Jumanji", template_folder="app", static_folder="app")
+app = Flask("GitHut", template_folder="app", static_folder="app")
 
 @app.route("/")
 def home():
