@@ -1,3 +1,3 @@
 # GitHut
 
-Creative software education.
+Fun computer education!
